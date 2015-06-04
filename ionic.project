@@ -1,0 +1,13 @@
+{
+  "name": "choreapp",
+  "app_id": "1c443798",
+  "gulpStartupTasks": [
+    "sass",
+    "jade",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
